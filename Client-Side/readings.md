@@ -1,3 +1,7 @@
+## Repos
+- https://github.com/zomasec/client-side-bugs-resources -> good source
+
+
 ## Write-up
 - [DOM XSS to Account Takeover in GSI SDK](https://blog.voorivex.team/not-so-dirty-dancing-in-gis-sdk)
 - https://security.lauritz-holtmann.de/post/xss-ato-gadgets/
