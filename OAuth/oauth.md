@@ -11,3 +11,4 @@
 - https://lab.ctbb.show/research/can-a-predicted-window-open-target-really-be-that-impactful
 - https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts
 - https://elmahdi.tistory.com/4 --> OAuth Open Redirect tests
+https://lab.ctbb.show/research/stopping-redirects --> very useful research by J0rian
