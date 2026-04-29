@@ -16,6 +16,8 @@
   - https://www.youtube.com/watch?v=O1ZN_OCfNzg --> Exploiting Client-Side Path Traversal: CSRF Is Dead, Long Live CSRF
   - https://matanber.com/blog/cspt-levels
 - https://x.com/samwcyo/status/1437030056627523590
+- https://whoareme.com/blog/cspt-account-takeover-2fa-bypass/
+
 ## WAF Bypass
 - https://blog.ethiack.com/blog/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution
 
