@@ -43,6 +43,7 @@
 - https://mey-d.github.io/posts/self-xss-disk-cache/
 - https://github.com/ArtSecTest/artsec-xss-labs -> xss lab
 - https://coopergyoung.com/exacerbating-cross-site-scripting-the-iframe-sandwich/
+- https://sudistark.github.io/2026/04/07/mxss.html --> Mutation XSS 
 
 #### Parser discrepencies and XSS
 - https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
@@ -50,3 +51,4 @@
 
 #### DOM XSS
 - https://elmahdi4.wordpress.com/2025/09/26/dom-xss-bypassing-server-side-cookie-overwrite-chrome-innerhtml-quirk-and-json-injection/
+- https://medium.com/@renwa/site-dom-xss-using-cookie-injection-the-ai-hackers-are-coming-faster-than-you-think-3ef82f2a991d --> Renwa XSS
