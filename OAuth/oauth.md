@@ -12,3 +12,4 @@
 - https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts
 - https://elmahdi.tistory.com/4 --> OAuth Open Redirect tests
 https://lab.ctbb.show/research/stopping-redirects --> very useful research by J0rian
+- https://blog.voorivex.team/story-of-abusing-a-fully-secured-redirect-uri-in-an-oauth-flow  ---> By Yashar, RECOMMended
