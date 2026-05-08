@@ -7,3 +7,4 @@
 - https://adversa.ai/blog/promisqroute-gpt-5-ai-router-novel-vulnerability-class/
 - https://labs.zenity.io/p/agentflayer-chatgpt-connectors-0click-attack-5b41
 - https://blog.starstrike.ai/posts/achieving-deterministic-prompt-injection-through-client-side-feedback-loops/ --> By XSS doctor 
+- https://blog.voorivex.team/shaking-the-mcp-tree
