@@ -49,4 +49,4 @@
 - https://gist.github.com/jhaddix/78cece26c91c6263653f31ba453e273b --> cloud metadate wordlist
 - http://blog.assetnote.io/2021/01/13/blind-ssrf-chains/ --> Exploiting blind SSRF
 - https://x.com/Rhynorater/status/1689400476452679682 --> Justing Baaghboon SSRF tips
-  
+- https://portswigger.net/research/top-10-web-hacking-techniques-of-2017#1:~:text=1.%20A%20New%20Era%20of%20SSRF
