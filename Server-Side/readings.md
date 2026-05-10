@@ -42,3 +42,11 @@
 - probably a seperate topic later
 - https://rmrf.tips/en/posts/jwt-why-broken/ --> highly recommended
 - https://github.com/sin99xx/researchlab/blob/main/JWTs-deep-dive.md
+
+
+## SSRF
+- https://medium.com/@skycer_00/full-blown-ssrf-to-gain-access-to-millions-of-users-records-and-multiple-internal-panels-3719d9b802e9
+- https://gist.github.com/jhaddix/78cece26c91c6263653f31ba453e273b --> cloud metadate wordlist
+- http://blog.assetnote.io/2021/01/13/blind-ssrf-chains/ --> Exploiting blind SSRF
+- https://x.com/Rhynorater/status/1689400476452679682 --> Justing Baaghboon SSRF tips
+  
