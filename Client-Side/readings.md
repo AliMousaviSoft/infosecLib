@@ -46,6 +46,7 @@
 - https://mey-d.github.io/posts/self-xss-disk-cache/ --> by meydi
 - https://www.ghostlulz.com/blog/reactjs-sourcemaps-to-xss-with-ai  --> Basic
 - https://slcyber.io/research-center/two-bypasses-for-chromes-sanitizer-api/ --> Case Study, very educational
+- https://jorianwoltjer.com/blog/p/stories/finding-xss-on-shazzer --> Jorian cooking shazzer, very cool
 
 #### Parser discrepencies and XSS
 - https://lab.ctbb.show/research/parse-and-parse-mime-validation-bypass-to-xss-via-parser-differential
