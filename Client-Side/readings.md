@@ -17,6 +17,7 @@
   - https://matanber.com/blog/cspt-levels
 - https://x.com/samwcyo/status/1437030056627523590
 - https://whoareme.com/blog/cspt-account-takeover-2fa-bypass/
+- https://lab.ctbb.show/research/the-dot-dot-slash-that-frameworks-hand-you --> xss doctor
 
 ## WAF Bypass
 - https://blog.ethiack.com/blog/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution
