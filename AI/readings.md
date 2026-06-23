@@ -9,3 +9,5 @@
 - https://blog.starstrike.ai/posts/achieving-deterministic-prompt-injection-through-client-side-feedback-loops/ --> By XSS doctor 
 - https://blog.voorivex.team/shaking-the-mcp-tree
 - https://hackt.us/full-account-takeover-on-an-mcp-oauth-proxy-why-pkce-can-t-save-you
+- https://www.breachproof.net/blog/lethal-injection-how-we-hacked-microsoft-ai-chat-bot/ --> very educational
+- https://bugbunny.ai/blog/google-gemini-cli-rce-2025
