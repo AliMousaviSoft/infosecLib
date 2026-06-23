@@ -34,6 +34,7 @@
 ## Cache bugs
 - https://medium.com/@Aacle/20-cache-poisoning-case-study-depth-analysis-of-real-world-bug-reports-d6aa02a6a44f
 - https://malicious.group/smuggling-through-the-front-door-achieving-0-click-xss-with-cache-poisoning/
+- https://zhero-web-sec.github.io/research-and-things/re-cache-excessive-reflection-type-confusion-and-0-click-sxss-on-nextjs
 
 
 ## Authentication, SSO
