@@ -3,6 +3,7 @@
 - https://www.rcesecurity.com/2026/02/when-audits-fail-from-pre-auth-ssrf-to-rce-in-trufusion-enterprise/
 - https://projectdiscovery.io/blog/hacking-apple-with-sql-injection
 - https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854 --> GitHub RCE via git push
+- https://www.hacktron.ai/blog/react2shell-vercel-waf-bypass#bypass-4-duplicate-content-type-in-multipart-field
 
 ## Parsers vulnerabilities
 - https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
