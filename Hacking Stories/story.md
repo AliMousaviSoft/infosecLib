@@ -7,3 +7,4 @@ Usefull walkthrough by hackers, showing how they hack and exploit companies with
 - https://infosecwriteups.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5
 - https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52
 - https://sectricity.com/blog/misconfigured-grafana-507-private-meta-repos/ --> Must read
+- https://blog.ammaraskar.com/github-token-stealing/ --> must read
