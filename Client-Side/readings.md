@@ -65,7 +65,7 @@
 - https://aszx87410.github.io/beyond-xss/en/ -> MUST READ
 - https://github.com/sin99xx/researchlab/blob/main/Cookies-and-CORS.md
 - https://coopergyoung.com/exacerbating-cross-site-scripting-the-iframe-sandwich/
-
+- https://lab.ctbb.show/writeups/breaking-samesite-strict-in-chrome
 
 ## CSP Bypass
 - https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache
