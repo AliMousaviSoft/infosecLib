@@ -8,3 +8,4 @@
 - https://labs.zenity.io/p/agentflayer-chatgpt-connectors-0click-attack-5b41
 - https://blog.starstrike.ai/posts/achieving-deterministic-prompt-injection-through-client-side-feedback-loops/ --> By XSS doctor 
 - https://blog.voorivex.team/shaking-the-mcp-tree
+- https://hackt.us/full-account-takeover-on-an-mcp-oauth-proxy-why-pkce-can-t-save-you
