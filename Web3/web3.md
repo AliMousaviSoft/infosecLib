@@ -3,3 +3,4 @@
 - https://github.com/immunefi-team/Web3-Security-Library?utm_source=immunefi
 - https://www.youtube.com/watch?v=miVC-_sni9M&list=PLvxs_epf2X90qo6wN1RCN3-8jGQnCa8La
 - https://youtu.be/oGUqr0vzqss?si=_BhYid_LXWDpYOs0
+- https://osec.io/blog/2026-06-18-goldmine-of-insecure-webview-integrations/
