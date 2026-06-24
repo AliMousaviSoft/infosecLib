@@ -9,3 +9,4 @@
 - https://clawd.it/posts/11-teaching-claude-everything-youve-hacked/
 - https://www.pentest-book.com/others/burp
 - https://github.com/jthack/ffuf_claude_skill/tree/main
+- https://hakluke.com/are-bug-bounties-cooked
