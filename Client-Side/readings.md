@@ -1,6 +1,7 @@
-## Repos
+## Good Sources
 - https://github.com/zomasec/client-side-bugs-resources -> good source
-
+- https://book.jorianwoltjer.com/web/ --> Awesome
+  
 ## Challenge and Lab
 - https://vitorfalcao.com/posts/intigriti-0525-writeup/ --> deep into client-side, hard but educational
 
