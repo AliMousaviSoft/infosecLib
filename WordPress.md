@@ -1,0 +1,1 @@
+- https://karrab7.com/articles/WordPress-Pentesting-Cheatsheet#general-information
