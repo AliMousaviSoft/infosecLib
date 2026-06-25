@@ -1,1 +1,2 @@
 - https://www.youtube.com/@mattbrwn
+- https://youtu.be/YPcOwKtRuDQ?si=2vmukJrr2ZBe_7Jr -> DEF CON 32 - Beginner's Guide 
