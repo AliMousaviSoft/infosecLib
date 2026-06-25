@@ -13,7 +13,7 @@
 - https://mizu.re/post/fcsc-2026-writeups --> Kevin Mizu (recommended)
 
 ## CSRF
-- https://gist.github.com/MEY-D/14e3a6449b340a8a2122d5e2b2ad662a
+- https://gist.github.com/MEY-D/14e3a6449b340a8a2122d5e2b2ad662a --> Sending CSRF Multiple POST requests
 
 ## CSPT 
 - https://medium.com/@renwa/client-side-path-traversal-cspt-bug-bounty-reports-and-techniques-8ee6cd2e7ca1
