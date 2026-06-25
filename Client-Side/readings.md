@@ -12,6 +12,9 @@
 - https://nokline.github.io/bugbounty/2024/06/07/Zoom-ATO.html
 - https://mizu.re/post/fcsc-2026-writeups --> Kevin Mizu (recommended)
 
+## CSRF
+- https://gist.github.com/MEY-D/14e3a6449b340a8a2122d5e2b2ad662a
+
 ## CSPT 
 - https://medium.com/@renwa/client-side-path-traversal-cspt-bug-bounty-reports-and-techniques-8ee6cd2e7ca1
 - https://vitorfalcao.com/posts/automating-cspt-discovery/ --> recommended
