@@ -14,12 +14,12 @@
 - https://vitorfalcao.com/posts/automating-cspt-discovery/ --> recommended
 - https://blog.voorivex.team/cloudflare-image-proxy-as-a-cspt-gadget-a-cross-origin-cspt-exploit
 - https://zere.es/posts/cache-deception-cspt-account-takeover/
-  - https://www.youtube.com/watch?v=O1ZN_OCfNzg --> Exploiting Client-Side Path Traversal: CSRF Is Dead, Long Live CSRF
-  - https://matanber.com/blog/cspt-levels
+- https://www.youtube.com/watch?v=O1ZN_OCfNzg --> Exploiting Client-Side Path Traversal: CSRF Is Dead, Long Live CSRF
+- https://matanber.com/blog/cspt-levels
 - https://x.com/samwcyo/status/1437030056627523590
 - https://whoareme.com/blog/cspt-account-takeover-2fa-bypass/
 - https://lab.ctbb.show/research/the-dot-dot-slash-that-frameworks-hand-you --> xss doctor
-
+- https://vitorfalcao.com/posts/hacking-high-profile-targets/ --> very coprehensive and educational, recommended
 
 ## WAF Bypass
 - https://blog.ethiack.com/blog/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution
