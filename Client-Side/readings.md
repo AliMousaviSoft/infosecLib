@@ -1,6 +1,8 @@
 ## Repos
 - https://github.com/zomasec/client-side-bugs-resources -> good source
 
+## Challenge and Lab
+- https://vitorfalcao.com/posts/intigriti-0525-writeup/ --> deep into client-side, hard but educational
 
 ## Write-up
 - [DOM XSS to Account Takeover in GSI SDK](https://blog.voorivex.team/not-so-dirty-dancing-in-gis-sdk)
